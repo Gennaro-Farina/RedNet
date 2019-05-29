@@ -1,4 +1,4 @@
-pytorh>=0.4.0
+pytorch>=0.4.0
 numpy
 imageio
 scipy
